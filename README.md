@@ -29,7 +29,8 @@ Users should be able to:
 ### Screenshot
 
 ![mobile](screenshots/mobile-screenshot.jpg)
-![desktop](screenshots/desktop-screenshot.jpg)
+
+![desktop](https://github.com/emreisildakli/Countdown-Timer-Solution/blob/2d3a75252e5ff58507f1a62b8234884f6ddbed42/screenshots/desktop-screenshot.png)
 ![hover-effect](screenshots/hover-screenshot.jpg)
 
 
