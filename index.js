@@ -49,6 +49,7 @@ class Countdown{
         </div>` ;
 
         timeCards.innerHTML = html ;
+        console.log('deneme');
     }
 }
 const deneme = new Countdown();
