@@ -28,9 +28,9 @@ Users should be able to:
 
 ### Screenshot
 
-![mobile](main/screenshots/mobile-screenshot.jpg)
-![desktop](main/screenshots/desktop-screenshot.jpg)
-![hover-effect](main/screenshots/hover-screenshot.jpg)
+![mobile](./screenshots/mobile-screenshot.jpg)
+![desktop](./screenshots/desktop-screenshot.jpg)
+![hover-effect](./screenshots/hover-screenshot.jpg)
 
 
 ### Links
