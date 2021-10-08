@@ -27,11 +27,8 @@ Users should be able to:
 - **Bonus**: When a number changes, make the card flip from the middle
 
 ### Screenshots
-Mobile
 ![mobile](https://github.com/emreisildakli/Countdown-Timer-Solution/blob/3a546578084aa360da58be2a05326d2bcee1215c/screenshots/mobile-screenshot.png)
-Desktop
 ![desktop](https://github.com/emreisildakli/Countdown-Timer-Solution/blob/2d3a75252e5ff58507f1a62b8234884f6ddbed42/screenshots/desktop-screenshot.png)
-Hover Effect
 ![hover-effect](https://github.com/emreisildakli/Countdown-Timer-Solution/blob/3a546578084aa360da58be2a05326d2bcee1215c/screenshots/hover-screenshot.png)
 
 
