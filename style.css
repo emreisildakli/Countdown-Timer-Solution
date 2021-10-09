@@ -82,6 +82,7 @@ footer{
     display: flex;
     justify-content: center;
     align-items: center;
+    box-sizing: border-box;
 }
 .icons{
     margin-top: 50px;
