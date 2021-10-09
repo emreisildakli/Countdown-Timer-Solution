@@ -75,7 +75,7 @@ h1{
 }
 footer{
     margin-top: auto;
-    height: 35%;
+    min-height: 30%;
     background-image: url("images/pattern-hills.svg");
     background-position:right;
     background-size: cover;
