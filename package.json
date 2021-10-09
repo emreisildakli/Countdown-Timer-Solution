@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "node_modules/.bin/webpack --mode production",
+    "build": "node_modules/.bin/webpack --mode production --output _site",
     "serve": "webpack-dev-server --mode development"
   },
   "author": "",
