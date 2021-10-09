@@ -59,5 +59,5 @@ const deneme = new Countdown();
 const app= setInterval(()=>{
         deneme.calc();
         deneme.init();
-}, 1000);
+}, 10);
 app();
